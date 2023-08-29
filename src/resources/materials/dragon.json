@@ -1,0 +1,14 @@
+{
+    "shader": "lit",
+    "properties": {
+        "float": {
+            "mat_ambient": 0.3,
+            "mat_diffuse": 0.8,
+            "mat_specular": 0.8,
+            "mat_shine": 16
+        },
+        "vec4": {
+            "mat_baseColor": [0, 1, 1, 1]
+        }
+    }
+}

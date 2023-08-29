@@ -1,0 +1,21 @@
+{
+    "shader": "lit",
+    "properties": {
+        "float": {
+            "mat_ambient": 0.2,
+            "mat_diffuse": 0.9,
+            "mat_specular": 0.4,
+            "mat_shine": 512
+        },
+        "vec4": {
+            "mat_baseColor": [1, 1, 1, 1]
+        },
+        "vec2": {
+            "uv_scale": [0.5, 0.5],
+            "uv_offset": [0, 0]
+        },
+        "tex2D": {
+            "baseColor": "Wall_Stone_Basecolor"
+        }
+    }
+}
