@@ -6,3 +6,4 @@ A basic graphics engine in WebGL
 * Material JSON files
 * Positionable camera object
 * Quaternion and vector implementations
+* Up to 8 point lights
