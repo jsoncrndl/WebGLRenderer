@@ -1,5 +1,5 @@
 # WebGLRenderer
-A basic graphics engine in WebGL
+A basic graphics engine in WebGL.
 
 ## Features
 * .ply file loader
